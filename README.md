@@ -1,8 +1,11 @@
 # ElliotCodingChallenge
 
 This is the github repository for the Elliot Coding Challenge
+
 Student Name: Raymond Zhuang
+
 Student ID: 20517214
+
 Student Email: raymondzhuang1@hotmail.com
 
 Certain design requirements were not specified in the challenge description. So this challenge was tackled using the following assumptions:
