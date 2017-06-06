@@ -1,10 +1,8 @@
 # ElliotCodingChallenge
 
-This is the github repository for the Elliot Coding Challenge. The file name is "FreeFind.java".
+This is the github repository for the Elliot Coding Challenge. The file name is "FreeFinder.java".
 
 Student Name: Raymond Zhuang
-
-Student ID: 20517214
 
 Student Email: raymondzhuang1@hotmail.com
 
@@ -12,5 +10,6 @@ Certain design requirements were not specified in the challenge description. So 
 
 - Period of available time is considered 7 days starting the day AFTER the program is run
 - Output is largest duration for each corresponding day in the week
+- Execute the program by calling returnLargestFreeTime(String filePath)
 
 The program has runtime of O(n).
