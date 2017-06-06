@@ -1,6 +1,6 @@
 # ElliotCodingChallenge
 
-This is the github repository for the Elliot Coding Challenge
+This is the github repository for the Elliot Coding Challenge. The file name is "FreeFind.java".
 
 Student Name: Raymond Zhuang
 
